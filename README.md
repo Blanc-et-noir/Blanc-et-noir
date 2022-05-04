@@ -1,49 +1,55 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blanc-et-noir&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blanc-et-noir&layout=compact&theme=dracula)
-
 ***
 
-### Blanc et Noir
+### What is Blanc et Noir ?
 
-Blanc et Noir, 프랑스어로 하양과 검정이라는 의미의 별명입니다.<br>
-세상에는 하양처럼 밝은 빛이 있고<br>
-필연적으로 검정처럼 어두운 그림자가 있기 마련있음을 내포합니다.
+Blanc et Noir, 프랑스어로 하양과 검정이라는 의미의 단어입니다.<br>
+세상에는 하양처럼 밝은 빛이 있고, 그곳에는<br>
+필연적으로 검정처럼 어두운 그림자가 동시에 존재하기 마련입니다.
+
+<br>
 
 웹 서비스 또한 마찬가지입니다.<br>
 사용자가 스스로 마주하게 될 프론트엔드 영역과<br>
 사용자도 모르게 이용하게될 백엔드 영역이 존재합니다.
 
-Blacn et Noir 라는 별명에 걸맞게<br>
-서로 상반된 영역을 담당하는 프론트엔드와 백엔드 기술을<br>
-골고루 활용할 수 있는 개발자가 되고자 꾸준히 노력하고 있습니다.
+<br>
 
-[블로그](https://blanc-et-noir.tistory.com)
+Blacn et Noir 라는 별명에 걸맞게<br>
+서로 상반된 영역을 담당하는 <span style="color:red;"> 프론트엔드 </span> 와 백엔드 기술을<br>
+골고루 활용할 수 있는 개발자가 되고자 꾸준히 노력하고 있습니다.
 
 ***
 
-### 기술 현황
+### 사용 기술 현황
 
-  <div>
-      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-      <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  </div>
-  <br>
-  <div>
-      <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-      <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-      <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-      <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-      <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  </div>
-  <br>
-  <div>
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </div>
+##### 프론트엔드
+
+<div>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</div>
+<br>
+
+##### 백엔드
+
+<div>
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+    <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</div>
+<br>
+
+##### 형상관리
+
+<div>
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
 ***
 
@@ -63,12 +69,13 @@ Blacn et Noir 라는 별명에 걸맞게<br>
 
 ### 프로젝트 현황
 
-[알고리즘 공부](https://github.com/Blanc-et-noir/Algorithm)
+* [알고리즘 공부](https://github.com/Blanc-et-noir/Algorithm)
 
-[도서 정보 제공 웹 서비스](https://github.com/Blanc-et-noir/LibraryService)
+* [도서 정보 제공 웹 서비스](https://github.com/Blanc-et-noir/LibraryService)
 
-[CBT 웹 서비스](https://github.com/Blanc-et-noir/RestAPI)
+* [CBT 웹 서비스](https://github.com/Blanc-et-noir/RestAPI)
 
+* [블로그](https://blanc-et-noir.tistory.com)
 ***
 
 ### 주요 수강 현황
