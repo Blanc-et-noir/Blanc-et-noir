@@ -67,6 +67,13 @@ Blacn et Noir 라는 별명에 걸맞게<br>
 
 ***
 
+### 자격증 현항
+
+* 2022.09 정보처리기사 (취득예정)
+* 2022.12 토익 8XX (취득예정)
+
+***
+
 ### 프로젝트 현황
 
 * [알고리즘 공부](https://github.com/Blanc-et-noir/Algorithm)
