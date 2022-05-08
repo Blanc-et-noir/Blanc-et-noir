@@ -14,7 +14,7 @@ Blanc et Noir, 프랑스어로 하양과 검정이라는 의미의 단어입니�
 
 <br>
 
-Blacn et Noir 라는 별명에 걸맞게<br>
+Blanc et Noir 라는 별명에 걸맞게<br>
 서로 상반된 영역을 담당하는 <span style="color:red;"> 프론트엔드 </span> 와 백엔드 기술을<br>
 골고루 활용할 수 있는 개발자가 되고자 꾸준히 노력하고 있습니다.
 
