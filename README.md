@@ -15,8 +15,16 @@
 <br>
 
 #### Blanc et Noir 라는 별명에 걸맞게<br>
-#### 서로 상반된 영역을 담당하는 <span style="color:red;"> 프론트엔드 </span> 와 백엔드 기술을<br>
+#### 서로 상반된 영역을 담당하는 프론트엔드와 백엔드 기술을<br>
 #### 골고루 활용할 수 있는 개발자가 되고자 꾸준히 노력하고 있습니다.
+
+***
+
+### 관심 분야
+
+#### * 데이터 통신 및 컴퓨터 네트워크
+#### * 데이터베이스
+#### * RESTFUL API 및 JWT Token
 
 ***
 
@@ -78,15 +86,18 @@
 
 ### 프로젝트 현황
 
-#### * [알고리즘 공부](https://github.com/Blanc-et-noir/Algorithm)
-
 #### * [도서 정보 제공 웹 서비스](https://github.com/Blanc-et-noir/LibraryService)
 
 #### * [CBT 웹 서비스](https://github.com/Blanc-et-noir/RestAPI)
 
-#### * [알고리즘 스터디](https://github.com/hs-study-group/algorithm)
+#### * [알고리즘](https://github.com/Blanc-et-noir/Algorithm)
+
+#### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
+
+#### * [COVID-19, 함께 극복해요(리뉴얼 예정)](https://github.com/Blanc-et-noir/COVID-19-INFO)
 
 #### * [블로그](https://blanc-et-noir.tistory.com)
+
 ***
 
 ### 주요 수강 현황
