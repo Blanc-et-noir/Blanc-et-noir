@@ -2,27 +2,27 @@
 
 ### What is Blanc et Noir ?
 
-Blanc et Noir, 프랑스어로 하양과 검정이라는 의미의 단어입니다.<br>
-세상에는 하양처럼 밝은 빛이 있고, 그곳에는<br>
-필연적으로 검정처럼 어두운 그림자가 동시에 존재하기 마련입니다.
+#### Blanc et Noir, 프랑스어로 하양과 검정이라는 의미의 단어입니다.<br>
+#### 세상에는 하양처럼 밝은 빛이 있고, 그곳에는<br>
+#### 필연적으로 검정처럼 어두운 그림자가 동시에 존재하기 마련입니다.
 
 <br>
 
-웹 서비스 또한 마찬가지입니다.<br>
-사용자가 스스로 마주하게 될 프론트엔드 영역과<br>
-사용자도 모르게 이용하게될 백엔드 영역이 존재합니다.
+#### 웹 서비스 또한 마찬가지입니다.<br>
+#### 사용자가 스스로 마주하게 될 프론트엔드 영역과<br>
+#### 사용자도 모르게 이용하게될 백엔드 영역이 존재합니다.
 
 <br>
 
-Blanc et Noir 라는 별명에 걸맞게<br>
-서로 상반된 영역을 담당하는 <span style="color:red;"> 프론트엔드 </span> 와 백엔드 기술을<br>
-골고루 활용할 수 있는 개발자가 되고자 꾸준히 노력하고 있습니다.
+#### Blanc et Noir 라는 별명에 걸맞게<br>
+#### 서로 상반된 영역을 담당하는 <span style="color:red;"> 프론트엔드 </span> 와 백엔드 기술을<br>
+#### 골고루 활용할 수 있는 개발자가 되고자 꾸준히 노력하고 있습니다.
 
 ***
 
 ### 사용 기술 현황
 
-##### 프론트엔드
+#### * 프론트엔드
 
 <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -33,7 +33,7 @@ Blanc et Noir 라는 별명에 걸맞게<br>
 <br>
 
 
-##### 백엔드
+#### * 백엔드
 
 <div>
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
@@ -46,7 +46,7 @@ Blanc et Noir 라는 별명에 걸맞게<br>
 <br>
 
 
-##### 형상관리
+#### * 형상관리
 
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -57,34 +57,36 @@ Blanc et Noir 라는 별명에 걸맞게<br>
 
 ### 학력 현황
 
-* 2017.03 강원대학교 영어영문학과 입학
-* 2018.03 컴퓨터정보통신공학 복수전공 시작
-* 2023.03 졸업예정
+#### * 2017.03 강원대학교 영어영문학과 입학
+#### * 2018.03 컴퓨터정보통신공학 복수전공 시작
+#### * 2023.03 졸업예정
 
 ***
 
 ### 경력 현항
 
-* 2021.10 KNU 프로그래밍 경진대회 장려상
+#### * 2021.10 KNU 프로그래밍 경진대회 장려상
 
 ***
 
 ### 자격증 현항
 
-* 2022.09 정보처리기사 (취득예정)
-* 2022.12 토익 8XX (취득예정)
+#### * 2022.09 정보처리기사 (취득예정)
+#### * 2022.12 토익 8XX (취득예정)
 
 ***
 
 ### 프로젝트 현황
 
-* [알고리즘 공부](https://github.com/Blanc-et-noir/Algorithm)
+#### * [알고리즘 공부](https://github.com/Blanc-et-noir/Algorithm)
 
-* [도서 정보 제공 웹 서비스](https://github.com/Blanc-et-noir/LibraryService)
+#### * [도서 정보 제공 웹 서비스](https://github.com/Blanc-et-noir/LibraryService)
 
-* [CBT 웹 서비스](https://github.com/Blanc-et-noir/RestAPI)
+#### * [CBT 웹 서비스](https://github.com/Blanc-et-noir/RestAPI)
 
-* [블로그](https://blanc-et-noir.tistory.com)
+#### * [알고리즘 스터디](https://github.com/hs-study-group/algorithm)
+
+#### * [블로그](https://blanc-et-noir.tistory.com)
 ***
 
 ### 주요 수강 현황
