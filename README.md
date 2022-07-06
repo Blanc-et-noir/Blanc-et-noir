@@ -87,7 +87,7 @@
 
 #### * [RESTful API : 도서 API](https://github.com/Blanc-et-noir/api)
 
-#### * [CBT 웹 서비스](https://github.com/Blanc-et-noir/RestAPI)
+#### * [RESTful API : CBT 웹 서비스 API](https://github.com/Blanc-et-noir/RestAPI)
 
 #### * [도서 정보 제공 웹 서비스](https://github.com/Blanc-et-noir/LibraryService)
 
