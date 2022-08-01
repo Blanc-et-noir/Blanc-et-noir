@@ -118,4 +118,4 @@
 |2021-2|복선|데이터베이스|3|A+|
 |2022-1|복선|소프트웨어공학|3|A+|
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blanc-et-noir&layout=default&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blanc-et-noir&layout=compact&theme=buefy)
