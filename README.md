@@ -87,13 +87,13 @@
 
 ### 프로젝트 현황
 
-#### * [RESTful API : 도서 API](https://github.com/Blanc-et-noir/api)
+#### * [RESTful API : 도서관리 웹 서비스](https://github.com/Blanc-et-noir/api)
 
-#### * [RESTful API : CBT 웹 서비스 API](https://github.com/Blanc-et-noir/RestAPI)
+#### * [RESTful API : CBT 웹 서비스](https://github.com/Blanc-et-noir/RestAPI)
 
-#### * [도서 정보 제공 웹 서비스](https://github.com/Blanc-et-noir/LibraryService)
+#### * [도서 웹 커뮤니티](https://github.com/Blanc-et-noir/LibraryService)
 
-#### * [알고리즘](https://github.com/Blanc-et-noir/Algorithm)
+#### * [알고리즘 개인 공부](https://github.com/Blanc-et-noir/Algorithm)
 
 #### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
 
