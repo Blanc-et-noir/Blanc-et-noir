@@ -24,7 +24,7 @@
 
 #### * 데이터 통신 및 컴퓨터 네트워크
 #### * 데이터베이스
-#### * RESTFUL API 및 JWT Token
+#### * RESTful API 및 JWT Token
 
 ***
 
