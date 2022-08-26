@@ -97,8 +97,6 @@
 
 #### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
 
-#### * [COVID-19, 함께 극복해요(리뉴얼 예정)](https://github.com/Blanc-et-noir/COVID-19-INFO)
-
 #### * [블로그](https://blanc-et-noir.tistory.com)
 
 ***
