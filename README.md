@@ -117,3 +117,5 @@
 |2022-1|복선|소프트웨어공학|3|A+|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blanc-et-noir&layout=compact&theme=buefy)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jrw9215)](https://solved.ac/jrw9215)
