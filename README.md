@@ -99,8 +99,6 @@
 
 #### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
 
-#### * [블로그](https://blanc-et-noir.tistory.com)
-
 ***
 
 ### 주요 수강 현황
