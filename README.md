@@ -77,8 +77,6 @@
 
 #### * [RESTful API : CBT 웹 서비스](https://github.com/Blanc-et-noir/RESTful-API-1)
 
-#### * [도서 웹 커뮤니티](https://github.com/Blanc-et-noir/LibraryService)
-
 #### * [알고리즘 개인 공부](https://github.com/Blanc-et-noir/Algorithm)
 
 #### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
