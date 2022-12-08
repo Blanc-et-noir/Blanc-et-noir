@@ -97,6 +97,8 @@
 |2021-2|복선|네트워크보안|3|A+|
 |2021-2|복선|데이터베이스|3|A+|
 |2022-1|복선|소프트웨어공학|3|A+|
+|2022-2|복선|알고리즘|3||
+|2022-2|복선|인공지능|3||
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blanc-et-noir&layout=compact&theme=buefy)
 
