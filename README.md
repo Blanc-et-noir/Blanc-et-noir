@@ -82,7 +82,7 @@
 
 #### * [RESTful API : 도서관리 웹 서비스](https://github.com/Blanc-et-noir/RESTful-API-2)
 
-#### * [RESTful API : 시나부로 서비스](https://github.com/Blanc-et-noir/RESTful-API-4)
+#### * [RESTful API : 시나부로 서비스](https://github.com/Blanc-et-noir/RESTful-API-1)
 
 #### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
 
