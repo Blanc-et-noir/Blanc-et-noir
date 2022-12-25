@@ -76,15 +76,13 @@
 
 ***
 
-### 프로젝트 현황
+### 주요 프로젝트 현황
 
 #### * [RESTful API : 거래상어 서비스](https://github.com/Blanc-et-noir/RESTful-API-3)
 
 #### * [RESTful API : 도서관리 웹 서비스](https://github.com/Blanc-et-noir/RESTful-API-2)
 
-#### * [RESTful API : CBT 웹 서비스](https://github.com/Blanc-et-noir/RESTful-API-1)
-
-#### * [알고리즘 개인 공부](https://github.com/Blanc-et-noir/Algorithm)
+#### * [RESTful API : 시나부로 서비스](https://github.com/Blanc-et-noir/RESTful-API-4)
 
 #### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
 
