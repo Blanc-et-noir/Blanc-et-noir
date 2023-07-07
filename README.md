@@ -74,19 +74,24 @@
 
 #### * [RESTful API : 거래상어 서비스](https://github.com/Blanc-et-noir/RESTful-API-3)
 
+
 #### * [RESTful API : 도서관리 웹 서비스](https://github.com/Blanc-et-noir/RESTful-API-2)
+
 
 #### * [RESTful API : 시나부로 서비스](https://github.com/Blanc-et-noir/RESTful-API-1)
 
+
 #### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
+
 
 #### * [캠핑 용품 공유 플랫폼 웹 서비스](https://www.camter.co.kr)
 
 ㄴ 앞으로 개발될 캠핑 용품 공유 플랫폼 서비스를 소개하는 웹 페이지입니다. 해당 페이지에 접속하면, 자동으로 유입경로 및 체류시간, 접속기기종류, 운영체제 등 다양한 정보를 수집하며, 이를 통해 잠재고객이 서비스로부터 원하는 요구사항이 무엇인지 정확히 파악할 수 있도록 일부 프론트엔드 코드 및 전반적인 백엔드 서버 개발을 담당했습니다. 
 
+
 #### * [캠핑 용품 공유 플랫폼 Product Service](https://documenter.getpostman.com/view/21751638/2s93sf1qL3)
 
-ㄴ 상업용 프로젝트이므로, 소스코드 대신 직접 개발한 ProductService의 API 명세서를 업로드 했습니다.
+ㄴ 상업용 프로젝트이므로 소스코드를 공개하기 어려워, 대신 제가 직접 개발한 ProductService의 API 명세서를 업로드 했습니다. 간결하게 명세서를 작성하고, 이에 따른 다양한 API 사용 예시를 전달함으로써, 프론트엔드 개발자가 쉽게 백엔드 서버와의 연동 작업을 진행할 수 있도록 배려했습니다.
 
 ***
 
