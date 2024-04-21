@@ -95,6 +95,12 @@
 1. 상업용 프로젝트이므로 소스코드를 공개하기 어려워 대신 직접 개발한 ProductService의 API 명세서를 업로드 했습니다.
 2. 간결하게 API 명세서를 작성하고 다양한 API 사용 예시를 전달함으로써 프론트엔드 개발자가 쉽게 백엔드 서버와의 연동 작업을 진행할 수 있도록 배려했습니다.
 
+#### * [MSA-Service : 북덕북덕](https://github.com/Blanc-et-noir/MSA-Service)
+
+1. 높은 교재 구매 비용에 따른 대학생들의 경제적 부담을 완화하고자 개발한 중고 직거래 커뮤니티입니다.
+2. MSA 구조로 개발된 RESTful API 서버를 통해 서버 장애 발생시에 일부 기능은 그대로 사용할 수 있도록 가용성을 확보했습니다.
+3. Spring Cloud, Security를 활용하여 JWT 토큰을 활용한 API-Gateway를 개발했으며, 각 서비스에 대한 요청을 처리하기 이전에 사용자 인증을 총괄적으로 처리합니다.
+
 ***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blanc-et-noir&layout=compact&theme=buefy)
