@@ -71,26 +71,18 @@
 
 ### 프로젝트 현황
 
-#### * [RESTful API : 거래상어 서비스](https://github.com/Blanc-et-noir/RESTful-API-3)
+#### * [Club-Activity : 알고리즘 스터디](https://github.com/hs-study-group/algorithm)
 
+1. 다양한 문제를 해결함에 있어 적절한 자료구조 및 효율적인 알고리즘을 선택하는 것의 중요성을 깨닫고, 다양한 팀원들과 함께 알고리즘 스터디 활동을 진행했습니다.
+2. 다양한 IT 기업에서 코딩 테스트를 진행할 정도로, 문제해결 역량과 자료구조 및 알고리즘 등의 기반지식의 중요성이 떠올랐으며, 해당 스터디를 통해 그러한 지식 및 해결 역량, 자신감 등을 채워 나갔습니다.
 
-#### * [RESTful API : 도서관리 웹 서비스](https://github.com/Blanc-et-noir/RESTful-API-2)
+#### * [Web-Service : 캠터](https://www.camter.co.kr)
 
-
-#### * [RESTful API : 시나부로 서비스](https://github.com/Blanc-et-noir/RESTful-API-1)
-
-
-#### * [알고리즘 스터디 그룹](https://github.com/hs-study-group/algorithm)
-
-
-#### * [캠핑 용품 공유 플랫폼 웹 서비스](https://www.camter.co.kr)
-
-1. 앞으로 개발될 캠핑 용품 공유 플랫폼 서비스를 소개하는 웹 페이지입니다. 
+1. 앞으로 개발될 캠핑 용품 공유 플랫폼 서비스를 소개하는 웹 페이지의 일부 프론트엔드 및 전반적인 백엔드 개발을 담당했습니다.
 2. 해당 페이지에 접속하면, 자동으로 유입경로 및 체류시간, 접속기기종류, 운영체제 등 다양한 정보를 수집합니다.
 3. 이를 통해 잠재고객이 서비스로부터 원하는 요구사항이 무엇인지 정확히 파악할 수 있습니다.
-4. 일부 프론트엔드 개발 및 전반적인 백엔드 서버 개발을 담당했습니다.
 
-#### * [캠핑 용품 공유 플랫폼 Product Service](https://documenter.getpostman.com/view/21751638/2s93sf1qL3)
+#### * [MSA-Service : 캠터](https://documenter.getpostman.com/view/21751638/2s93sf1qL3)
 
 1. 상업용 프로젝트이므로 소스코드를 공개하기 어려워 대신 직접 개발한 ProductService의 API 명세서를 업로드 했습니다.
 2. 간결하게 API 명세서를 작성하고 다양한 API 사용 예시를 전달함으로써 프론트엔드 개발자가 쉽게 백엔드 서버와의 연동 작업을 진행할 수 있도록 배려했습니다.
