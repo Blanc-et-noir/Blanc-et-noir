@@ -6,9 +6,10 @@
 
 ### 관심 분야
 
-#### * DB
+#### * WEB Development
 #### * RESTful API
 #### * Network
+#### * DB
 
 ***
 
